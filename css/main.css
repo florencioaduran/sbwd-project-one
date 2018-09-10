@@ -1,0 +1,13 @@
+body {
+  background-color: #00bfff
+}
+
+p {    font-family: "Arial", cursive, sans-serif;
+    font-size: 16px;
+}
+h1,h2,h3,h4 {
+    color: black;
+    text-align: center;
+    font-family: "Arial", cursive, sans-serif;
+    font-size: 28px;
+}
