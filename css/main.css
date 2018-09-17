@@ -1,13 +1,31 @@
-body {
-  background-color: #00bfff
+html {
+  font-family: Helvetica;
 }
 
-p {    font-family: "Arial", cursive, sans-serif;
-    font-size: 16px;
+body {
+  background-color: #5CA2BC
 }
-h1,h2,h3,h4 {
-    color: black;
+
+p {
+    border-style: solid;
+    background-color: #FFFFEE;
+    border-width: 12px;
+    border-color: #FFFFEE;
+    font-size: 20px;
+    font-family: Lucida;
+    text-align: left;
+    width: 700px;
+    margin: auto;
+}
+h1 {
+    color: #FFFFEE;
+    font-weight: normal;
     text-align: center;
-    font-family: "Arial", cursive, sans-serif;
-    font-size: 28px;
+    font-size: 46px;
+}
+h2 {
+    color: #FFFFEE;
+    font-weight: normal;
+    text-align: center;
+    font-size: 38px;
 }
